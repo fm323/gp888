@@ -9,8 +9,8 @@
 <main>
     <h1>:(</h1>
     <p>~HUDJKPEB~</p><!-- 版本-->
-    <p>*HUDJKPEB*</p><!-- 更新地址-->
-    <p>$HUDJKPEB$</p><!-- 更新说明-->
+    <p>*KFBKBFEADKCILBCGDGNJHOEDHPLBFGECIHNJIJIJEJELJGHLMKCFHNHDCCBMHIFMMJIOMGLCKFPCEFGBCNABJGENPKNJICNILIDLJBMLHDFJOMABGDAO*</p><!-- 更新地址-->
+    <p>$TKDCJEGABIMFLILGAFDJJDLOIFONAL$</p><!-- 更新说明-->
 </main>
 </body>
 </html>
